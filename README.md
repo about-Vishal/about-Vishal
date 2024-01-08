@@ -1,4 +1,8 @@
+![logo](https://github.com/about-Vishal/about-Vishal/blob/main/banner.jpg)
+<h1 align="center">Hi, I'm Vishal Kumar</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 # 💫 About Me:
+
 🌍 I'm based in Bihar, India.<br>🚀 I'm currently studying on sri balaji chockalingam engineering college<br>⚛️ Some technologies that I love to working with includes Html and CSS.<br>🌱 I’m currently learning React.js.<br>📫 How to reach me:- vk2043665@gmail.com.<br>⚡ Fun fact to I create insta reels.
 
 
